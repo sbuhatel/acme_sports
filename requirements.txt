@@ -1,0 +1,15 @@
+Flask
+Flask-Migrate
+Flask-SQLAlchemy
+marshmallow
+marshmallow-sqlalchemy
+flask_marshmallow
+SQLAlchemy
+virtualenv
+virtualenv-clone
+virtualenvwrapper
+psycopg2-binary
+Werkzeug
+waitress
+requests
+
